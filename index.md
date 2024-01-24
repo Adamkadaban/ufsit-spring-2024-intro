@@ -6,7 +6,7 @@ permlink: /
 
 ## Challenge
 
-This challenge involves learning a bit about DNS records. I have placed the [flag](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)#:~:text=Capture%20the%20Flag%20(CTF)%20in,both%20competitive%20or%20educational%20purposes.) in a DNS record on the [flag.adamkadaban.lol](flag.adamkadaban.lol) subdomain.
+This challenge involves learning a bit about DNS records. I have placed the [flag](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)#:~:text=Capture%20the%20Flag%20(CTF)%20in,both%20competitive%20or%20educational%20purposes.) in a DNS record on the [flag.adamkadaban.lol](http://flag.adamkadaban.lol) subdomain.
 
 Try to figure out what kind of record would be useful for holding _text_ in it.
 
