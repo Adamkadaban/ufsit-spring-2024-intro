@@ -10,6 +10,8 @@ This challenge involves learning a bit about DNS records. I have placed the [fla
 
 Try to figure out what kind of record would be useful for holding _text_ in it.
 
+Once you get the solution, bring the flag to our first GBM (read more below) for free candy, pizza, and stickers!
+
 ### Tips
 
 There are websites that will do this for you.
