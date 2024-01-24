@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to UFSIT's 4th Mini CTF!
+title: Welcome to UFSIT's 3rd Mini CTF!
 permlink: /
 ---
 
