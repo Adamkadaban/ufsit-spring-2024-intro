@@ -1,3 +1,9 @@
+---
+layout: page
+title: Welcome!
+permlink: /
+---
+
 # Welcome to UFSIT's 4th Mini CTF!
 
 ## Challenge
