@@ -16,6 +16,10 @@ There are websites that will do this for you.
 
 If you want to delve deeper, you can learn about the `dig` utility in linux. (Click [here](https://linux.die.net/man/1/dig) to see more)
 
+<br>
+<br>
+<br>
+
 ## About UFSIT
 
 [UFSIT](https://ufsit.club) is the UF Student Infosec Team
