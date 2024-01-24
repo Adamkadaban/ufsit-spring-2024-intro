@@ -24,7 +24,7 @@ If you want to delve deeper, you can learn about the `dig` utility in linux. (Cl
 
 [UFSIT](https://ufsit.club) is the UF Student Infosec Team
 
-We have cybersecurity meetings and compete nationally in hacking and defending competitions every year.
+We have weekly cybersecurity meetings and compete nationally in hacking & defending competitions every year.
 
 
 Here are some of our wins in just the past year:
