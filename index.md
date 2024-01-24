@@ -31,7 +31,7 @@ Here are some of our wins in just the past year:
 
 ### How can I join?
 
-**Come to our first GBM!!** January 25th (Thursday), **6PM** @ CSE231
+🚨**Come to our first GBM!!** January 25th (Thursday), **6PM** @ CSE231 🚨
 
 Almost everything we do is on our [discord](https://discord.ufsit.club)
 Once you're in here, you're a member! If you want to be part of our competitive teams, you can message our in-house **Tenders** Bot to verify yourself.
