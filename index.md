@@ -40,6 +40,6 @@ Here are some of our wins in just the past year:
 🚨**Come to our first GBM!!** January 25th (Thursday), **6PM** @ CSE231 🚨
 
 Almost everything we do is on our [discord](https://discord.ufsit.club)
-Once you're in here, you're a member! If you want to be part of our competitive teams, you can message our in-house **Tenders** Bot to verify yourself.
+Once you're in here, you're a member! If you want to be part of our competitive teams, you can message our in-house **Tenders** Bot with `!verify` to verify yourself.
 
 Feel free to also follow us on [instagram](https://instagram.com/uf.sit)
